@@ -35,7 +35,7 @@ Here are some projects I’ve worked on and pinned:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Himanshu977-star&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu977-star&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Himanshu977-star&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
